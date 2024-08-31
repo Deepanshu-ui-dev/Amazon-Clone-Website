@@ -22,4 +22,4 @@ This project is a clone of the Amazon website built using only HTML and CSS. The
 
 1. **Clone the Repository**: 
    ```bash
-   git clone 
+   git clone https://github.com/Deepanshu-ui-dev/Amazon-Clone-Website
